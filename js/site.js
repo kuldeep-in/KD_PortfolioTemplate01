@@ -149,20 +149,7 @@ var skillsList = [
     { text: "Agile / Scrum" },
     { text: "Microsoft Azure Cloud" },
     { text: "Sustainability Cloud" },
-    { text: "Azure Web/ Compute" },
-    { text: "Azure SQL" },
-    { text: "Cosmos DB" },
-    { text: "Azure Storage" },
-    { text: "Azure Data Factory" },
-    { text: "Azure Synapse" },
-    { text: "Azure Databrick" },
-    { text: "Data Warehouse" },
-    { text: "Eventing and Messaging" },
-    { text: "Application Monitoring" },
-    { text: "Azure Automation" },
-    { text: "Azure DevOps" },
-    { text: "Power Platform" },
-    { text: "Power BI / Power Apps" }
+    { text: "Azure Web/ Compute" }
 ];
 
 // Technologies
